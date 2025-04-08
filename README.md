@@ -50,7 +50,7 @@ The primary goal of this project is to provide a full-featured, offline-capable 
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/meshgui.git
+git clone https://github.com/wasted-alien/Meshtastic-Desktop-Application.git
 cd meshgui
 pip install -r requirements.txt
 ```
