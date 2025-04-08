@@ -1,0 +1,38 @@
+Non-Commercial Open Source License
+
+Copyright (c) 2024 - WASTED ALIEN -
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software for non-commercial purposes only, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+share copies of the Software, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. The Software may not be used for any commercial purposes, including but not
+   limited to:
+   - Selling the Software or any derivative works
+   - Including the Software in any commercial product
+   - Using the Software to provide commercial services
+   - Any other use that generates revenue or profit
+
+3. Any derivative works must also be distributed under this same license and
+   must include proper attribution to the original author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Additional Notes:
+1. This project is an independent GUI interface for Meshtastic devices and is not officially affiliated with the Meshtastic project.
+2. The name "Meshtastic" is used in this project to describe compatibility with Meshtastic devices and is not intended to imply official endorsement or affiliation.
+3. The Meshtastic name and logo are trademarks of their respective owners.
+4. When referencing this project, please credit the original author and maintain proper attribution.
