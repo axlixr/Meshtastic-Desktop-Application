@@ -51,14 +51,14 @@ The primary goal of this project is to provide a full-featured, offline-capable 
 
 ```bash
 git clone https://github.com/wasted-alien/Meshtastic-Desktop-Application.git
-cd meshgui
+cd Meshtastic-Desktop-Application
 pip install -r requirements.txt
 ```
 
 ### Running the App
 
 ```bash
-python meshgui.py
+python main.py
 ```
 
 1. Select your device’s serial port from the dropdown
