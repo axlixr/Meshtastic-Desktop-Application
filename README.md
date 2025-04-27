@@ -113,7 +113,7 @@ This project was rapidly prototyped using help from LLMs for code scaffolding an
 
 ## 📄 License
 
-Licensed under the **Non-Commercial Open Source License** – see the `LICENSE` file for details.
+Licensed under the **GNU GENERAL PUBLIC LICENSE** – see the `LICENSE` file for details.
 
 ---
 
