@@ -130,7 +130,7 @@ Licensed under the **GNU GENERAL PUBLIC LICENSE** – see the `LICENSE` file for
 
 Add your name or handle below if you’ve contributed to this project:
 
-- 🛠️ **Vano** – Creator & Lead Dev  
+- 🛠️ **Lucky Pines** – Creator & Lead Dev  
 - ✨ _(Add yourself here!)_
 
 ---
