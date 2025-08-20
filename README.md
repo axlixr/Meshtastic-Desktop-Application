@@ -50,7 +50,7 @@ The primary goal of this project is to provide a full-featured, offline-capable 
 ### Installation
 
 ```bash
-git clone https://github.com/wasted-alien/Meshtastic-Desktop-Application.git
+git clone https://github.com/luckypines/Meshtastic-Desktop-Application.git
 cd Meshtastic-Desktop-Application
 pip install -r requirements.txt
 ```
