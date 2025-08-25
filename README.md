@@ -50,7 +50,7 @@ The primary goal of this project is to provide a full-featured, offline-capable 
 ### Installation
 
 ```bash
-git clone https://github.com/luckypines/Meshtastic-Desktop-Application.git
+git clone https://github.com/axlixr/Meshtastic-Desktop-Application.git
 cd Meshtastic-Desktop-Application
 pip install -r requirements.txt
 ```
@@ -130,7 +130,7 @@ Licensed under the **GNU GENERAL PUBLIC LICENSE** – see the `LICENSE` file for
 
 Add your name or handle below if you’ve contributed to this project:
 
-- 🛠️ **Lucky Pines** – Creator & Lead Dev  
+- 🛠️ **Axl** – Creator & Lead Dev  
 - ✨ _(Add yourself here!)_
 
 ---
